@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## What I've been up to this week:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
