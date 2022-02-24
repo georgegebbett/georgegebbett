@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 ### What I've been up to this week:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Text     19 mins         ████████████▒░░░░░░░░░░░░   49.95 % 
+HTML     8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.44 % 
+CSS      4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Python   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+YAML     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 <!--END_SECTION:waka-->
