@@ -23,11 +23,14 @@ Here are some ideas to get you started:
 
 ### What I've been up to this week:
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   32 mins         ███████████▒░░░░░░░░░░░░░   44.97 % 
-Text         19 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.85 % 
-HTML         8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-CSS          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Python       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+JavaScript         36 mins         ███████▒░░░░░░░░░░░░░░░░░   28.87 %
+Python             29 mins         ██████░░░░░░░░░░░░░░░░░░░   23.52 %
+Text               19 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
+CSS                11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+HTML               8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+TOML               8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
 ```
+
 <!--END_SECTION:waka-->
