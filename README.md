@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             1 hr            █████████████░░░░░░░░░░░░   52.08 %
-Python           34 mins         ███████▒░░░░░░░░░░░░░░░░░   29.36 %
-GitIgnore file   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-JavaScript       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-YAML             4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-IDEA_MODULE      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Java             52 mins         ███████████████████▒░░░░░   77.91 %
+GitIgnore file   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+JavaScript       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+IDEA_MODULE      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
