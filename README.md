@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript     5 hrs 37 mins   ███████████████▓░░░░░░░░░   63.23 %
-Java           1 hr 54 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
-JSON           33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-Text           21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-Python         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-textmate       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+JavaScript            7 hrs 7 mins    █████████████▒░░░░░░░░░░░   53.84 %
+TypeScript            3 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   28.94 %
+Java                  48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+JSON                  42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Text                  21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+YAML                  7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
