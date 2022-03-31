@@ -25,11 +25,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript            2 hrs 29 mins   ██████████████████████▓░░   90.11 %
-JSON                  9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-HTTP Request          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-YAML                  1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Cookie storage file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
