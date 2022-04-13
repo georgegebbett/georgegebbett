@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python         3 mins          ███████████████▓░░░░░░░░░   62.01 %
+Shell Script   1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
+YAML           0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+Bash           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+TypeScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
