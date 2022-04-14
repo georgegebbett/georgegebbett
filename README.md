@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python         3 mins          ███████████████▓░░░░░░░░░   62.01 %
-Shell Script   1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
-YAML           0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-Bash           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-TypeScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript     2 hrs 49 mins   ███████████████████████▒░   93.15 %
+YAML           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Python         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Shell Script   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+SQL            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
