@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript            15 hrs 18 mins  █████████████▒░░░░░░░░░░░   52.67 %
-TypeScript            9 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   32.01 %
-JSON                  1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-GraphQL               1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-GitIgnore file        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-HTTP Request          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+TypeScript       11 hrs 34 mins  ████████████▒░░░░░░░░░░░░   49.93 %
+JavaScript       8 hrs 49 mins   █████████▓░░░░░░░░░░░░░░░   38.06 %
+GraphQL          1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+JSON             47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+GitIgnore file   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Text             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
