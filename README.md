@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       18 hrs 44 mins  ████████████████▒░░░░░░░░   65.85 %
-JavaScript       6 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
-GraphQL          1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-JSON             53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Docker           33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-YAML             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+TypeScript       18 hrs 54 mins  ███████████████████▓░░░░░   78.05 %
+JavaScript       2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+JSON             52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Docker           33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+GraphQL          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+YAML             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
