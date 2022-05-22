@@ -1,10 +1,6 @@
 ### Hello, I'm George 👋
 
-I'm an aspiring software developer, currently studying a Law degree at the University of Southampton, due to graduate in summer 2022. 
-
-My GitHub is a bit of a mess - I don't really have any long-term projects, instead choosing to build little things as and when I need them.
-
-I'm looking to ramp up my OSS contributions - if you have a repo that needs Python/JS/basic Java contributions then hit me up!
+I've been writing code in some form or another since I was about 8 years old, and recently made it my full-time job. On top of this, I maintain [Recipe Buddy](https://github.com/georgegebbett/recipe-buddy), a recipe scraper that interfaces with Grocy.  
 
 <!--
 **georgegebbett/georgegebbett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
