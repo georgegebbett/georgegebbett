@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       25 hrs 6 mins   ███████████████████████▓░   94.00 %
-JavaScript       1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-GraphQL          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript       20 hrs 17 mins  ███████████████████████▓░   95.11 %
+JavaScript       33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+GraphQL          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
