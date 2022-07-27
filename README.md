@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript       20 hrs 1 min    ███████████████████▒░░░░░   77.75 %
+YAML             2 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+Terraform        2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Markdown         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Text             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+JavaScript       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
