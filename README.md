@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       16 hrs 20 mins  ██████████████████░░░░░░░   72.52 %
-YAML             2 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-Terraform        2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-Markdown         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Text             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Bash             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+TypeScript   6 hrs 4 mins    ████████████████████████░   95.40 %
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+yarn.lock    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
