@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       12 hrs 32 mins  ████████████████████████▒   96.91 %
-Text             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Terraform        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TypeScript       7 hrs 53 mins   ██████████████████████▒░░   89.53 %
+Prisma           19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+JSON             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Terraform        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Text             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+.env file        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
