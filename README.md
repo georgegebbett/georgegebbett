@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      12 hrs 13 mins  ██████████████████████░░░   88.60 %
-JavaScript      40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Prisma          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-JSON            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Text            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-.env file       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+TypeScript    17 hrs 22 mins  ███████████████████████▓░   94.88 %
+JavaScript    39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+GraphQL       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+.env file     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+JSON          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+tsconfig      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
