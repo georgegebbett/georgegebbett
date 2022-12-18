@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript          14 hrs 4 mins   ████████████████████▓░░░░   82.98 %
-Rust                1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-YAML                1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-yarn.lock           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Text                7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-JSON                6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+TypeScript      15 hrs 39 mins  ██████████████████████▒░░   89.94 %
+Rust            1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+yarn.lock       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Text            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+JSON            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+JavaScript      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
