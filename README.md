@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 35 mins   ████████████████████████▒   97.52 %
-Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-GraphQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   4 hrs 2 mins    █████████████████████▒░░░   84.67 %
+Prisma       26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+tsconfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
