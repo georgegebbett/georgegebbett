@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Terraform        7 hrs 40 mins   ██████████░░░░░░░░░░░░░░░   39.93 %
-YAML             3 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
-JavaScript       2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-TypeScript       2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Dockerfile       1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-JSON             1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Terraform        6 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   36.09 %
+YAML             3 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
+Dockerfile       2 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+JavaScript       1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+TypeScript       1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+JSON             1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
 ```
 
 <!--END_SECTION:waka-->
