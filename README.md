@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       25 hrs 43 mins  ████████████████▓░░░░░░░░   66.87 %
-Python           6 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-Prisma           2 hrs 19 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Terraform        1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-JSON             54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-JavaScript       50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+TypeScript       28 hrs 39 mins  ██████████████████▒░░░░░░   72.90 %
+Python           5 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+Prisma           2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+JSON             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+JavaScript       50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+TSConfig         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
