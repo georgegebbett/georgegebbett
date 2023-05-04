@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript         19 hrs 56 mins  ████████████████▒░░░░░░░░   65.80 %
-YAML               2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Prisma             1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-JSON               1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Shell Script       1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-Python             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+TypeScript         21 hrs 23 mins  █████████████████▓░░░░░░░   70.34 %
+Prisma             1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+JSON               1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Shell Script       1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+YAML               1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+JavaScript         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
