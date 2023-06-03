@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 ### What I've been up to this week:
 <!--START_SECTION:waka-->
 
-```text
-TypeScript         12 hrs 11 mins  ███████████████████▓░░░░░   78.22 %
-YAML               1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-Python             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-Prisma             26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-JavaScript         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+```txt
+TypeScript         15 hrs 20 mins  ██████████████████░░░░░░░   71.61 %
+JavaScript         1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+YAML               1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Terraform          48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Markdown           35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
