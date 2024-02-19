@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         0 secs          ███████████████▓░░░░░░░░░   62.08 %
-Python             0 secs          █████████▒░░░░░░░░░░░░░░░   37.86 %
-requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
