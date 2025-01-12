@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 3 mins    ████████████████████████░   95.49 %
-Terraform    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
