@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform      4 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   40.02 %
-Jupyter        2 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   20.18 %
-Python         2 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   19.99 %
-TypeScript     1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
-TOML           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Terraform        5 hrs 22 mins   █████████▓░░░░░░░░░░░░░░░   38.77 %
+Jupyter          4 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.28 %
+TypeScript       1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+Python           1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+TOML             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
