@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   23 hrs 32 mins  ███████████████████▒░░░░░   77.20 %
-Terraform    2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-JSON         2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-YAML         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+TypeScript   18 hrs 58 mins  ███████████████████▒░░░░░   77.74 %
+Terraform    2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+JSON         1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+YAML         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
