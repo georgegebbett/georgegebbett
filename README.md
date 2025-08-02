@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 hrs 8 mins   ███████████████████▓░░░░░   78.91 %
-INI          1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-C++          41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Terraform    39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Python       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+TypeScript   9 hrs 28 mins   ██████████████████░░░░░░░   72.38 %
+INI          1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+C++          41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Terraform    38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Python       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
