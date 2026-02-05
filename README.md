@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-SQL          26 mins         █████████████▒░░░░░░░░░░░   53.41 %
-TypeScript   22 mins         ███████████▓░░░░░░░░░░░░░   46.50 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+SQL          20 mins         █████████████▒░░░░░░░░░░░   53.94 %
+TypeScript   17 mins         ███████████▓░░░░░░░░░░░░░   46.06 %
 Prisma       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
