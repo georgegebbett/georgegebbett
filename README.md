@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   14 mins         █████████████████▓░░░░░░░   70.81 %
+JSON         4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.42 %
+SQL          1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Prisma       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
