@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       3 hrs 56 mins   ██████████▒░░░░░░░░░░░░░░   41.58 %
-Markdown         1 hr 58 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
-PHP              1 hr 35 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-Bash             41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-JavaScript       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+TypeScript   2 hrs 24 mins   ███████████░░░░░░░░░░░░░░   43.85 %
+PHP          50 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Markdown     50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+Bash         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+JavaScript   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
 ```
 
 <!--END_SECTION:waka-->
