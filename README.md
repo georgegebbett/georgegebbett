@@ -1,6 +1,6 @@
 ### Hello, I'm George 👋
 
-I've been writing code in some form or another since I was about 8 years old, and recently made it my full-time job. On top of this, I maintain [Recipe Buddy](https://github.com/georgegebbett/recipe-buddy), a recipe scraper that interfaces with Grocy.  
+I've been writing code in some form or another since I was about 8 years old, and now AI writes most of it for me 
 
 <!--
 **georgegebbett/georgegebbett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
