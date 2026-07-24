@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         20 mins         █████████████▒░░░░░░░░░░░   52.76 %
-TypeScript   18 mins         ███████████▓░░░░░░░░░░░░░   47.06 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   16 mins         ██████████████▓░░░░░░░░░░   59.09 %
+JSON         11 mins         ██████████▒░░░░░░░░░░░░░░   40.91 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 .env file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
