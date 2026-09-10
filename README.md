@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       19 mins         ████████████████░░░░░░░░░   64.46 %
-.env file        3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-Markdown         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Text             2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-Prisma           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Other   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
